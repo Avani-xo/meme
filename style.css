@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(137, 209, 103);
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(236, 237, 183);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  
+}
+.imag{
+    border: 7px solid rgb(44, 44, 1);
+    width: 100%;
+}
